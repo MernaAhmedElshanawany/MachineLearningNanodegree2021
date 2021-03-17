@@ -1,6 +1,6 @@
 # MachineLearningNanodegree2021
 
-## Project1: Finding Donors for CharityML:
+## Project1: Finding Donors for CharityML: (Kaggle Competition)
 
 * Introduction to the dataset: A dataset that is concerned with the customer segments and some of their features such as how much they earn per month. 
 
